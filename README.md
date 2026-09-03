@@ -1,3 +1,4 @@
+
 # Backend Analítico con Flask y MongoDB
 
 Estructura base del proyecto backend organizada mediante arquitectura por capas para procesamiento y análisis de datos.
@@ -32,3 +33,6 @@ Estructura base del proyecto backend organizada mediante arquitectura por capas 
    ```
 
 4. Probar la API en `http://127.0.0.1:5000/`
+
+# GalaAnthony
+9a9eb66f1ef0dd6d6af228847ecfecd49402cf1c
